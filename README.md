@@ -88,7 +88,7 @@ In order to provide these features various types of actors will interact with an
 # Version
 0.0
 # Tech
-Dillinger uses a number of open source projects to work properly:
+Tabula Rasa uses a number of open source projects to work properly:
 
 * [AngularJS] - HTML enhanced for web apps!
 * [MongoDB] - NoSQL database for simplicity, scalability and flexibility for modern web apps
